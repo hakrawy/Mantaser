@@ -1,0 +1,7 @@
+C:\Users\hakra\Desktop\msimic-MediaPoint-de9562a\output\bin\x86\HashMatcher.dll
+C:\Users\hakra\Desktop\msimic-MediaPoint-de9562a\output\bin\x86\HashMatcher.pdb
+C:\Users\hakra\Desktop\msimic-MediaPoint-de9562a\HashMatcher\obj\Debug\HashMatcher.csprojResolveAssemblyReference.cache
+C:\Users\hakra\Desktop\msimic-MediaPoint-de9562a\HashMatcher\obj\Debug\SubtitleDownloader.Configuration.resources
+C:\Users\hakra\Desktop\msimic-MediaPoint-de9562a\HashMatcher\obj\Debug\HashMatcher.csproj.GenerateResource.Cache
+C:\Users\hakra\Desktop\msimic-MediaPoint-de9562a\HashMatcher\obj\Debug\HashMatcher.dll
+C:\Users\hakra\Desktop\msimic-MediaPoint-de9562a\HashMatcher\obj\Debug\HashMatcher.pdb

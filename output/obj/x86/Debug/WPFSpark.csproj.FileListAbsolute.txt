@@ -1,0 +1,10 @@
+C:\Users\hakra\Desktop\msimic-MediaPoint-de9562a\output\bin\x86\WPFSpark.dll
+C:\Users\hakra\Desktop\msimic-MediaPoint-de9562a\output\bin\x86\WPFSpark.pdb
+C:\Users\hakra\Desktop\msimic-MediaPoint-de9562a\output\obj\x86\Debug\WPFSpark.csprojResolveAssemblyReference.cache
+C:\Users\hakra\Desktop\msimic-MediaPoint-de9562a\output\obj\x86\Debug\Themes\Generic.baml
+C:\Users\hakra\Desktop\msimic-MediaPoint-de9562a\output\obj\x86\Debug\WPFSpark_MarkupCompile.cache
+C:\Users\hakra\Desktop\msimic-MediaPoint-de9562a\output\obj\x86\Debug\WPFSpark.g.resources
+C:\Users\hakra\Desktop\msimic-MediaPoint-de9562a\output\obj\x86\Debug\WPFSpark.Properties.Resources.resources
+C:\Users\hakra\Desktop\msimic-MediaPoint-de9562a\output\obj\x86\Debug\WPFSpark.csproj.GenerateResource.Cache
+C:\Users\hakra\Desktop\msimic-MediaPoint-de9562a\output\obj\x86\Debug\WPFSpark.dll
+C:\Users\hakra\Desktop\msimic-MediaPoint-de9562a\output\obj\x86\Debug\WPFSpark.pdb

@@ -1,0 +1,5 @@
+C:\Users\hakra\Desktop\msimic-MediaPoint-de9562a\output\bin\x86\MediaPoint.MVVM.dll
+C:\Users\hakra\Desktop\msimic-MediaPoint-de9562a\output\bin\x86\MediaPoint.MVVM.pdb
+C:\Users\hakra\Desktop\msimic-MediaPoint-de9562a\output\obj\x86\Debug\MediaPoint_MVVM.csprojResolveAssemblyReference.cache
+C:\Users\hakra\Desktop\msimic-MediaPoint-de9562a\output\obj\x86\Debug\MediaPoint.MVVM.dll
+C:\Users\hakra\Desktop\msimic-MediaPoint-de9562a\output\obj\x86\Debug\MediaPoint.MVVM.pdb

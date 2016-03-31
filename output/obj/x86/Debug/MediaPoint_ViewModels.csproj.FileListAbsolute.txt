@@ -1,0 +1,5 @@
+C:\Users\hakra\Desktop\msimic-MediaPoint-de9562a\output\bin\x86\MediaPoint.ViewModels.dll
+C:\Users\hakra\Desktop\msimic-MediaPoint-de9562a\output\bin\x86\MediaPoint.ViewModels.pdb
+C:\Users\hakra\Desktop\msimic-MediaPoint-de9562a\output\obj\x86\Debug\MediaPoint_ViewModels.csprojResolveAssemblyReference.cache
+C:\Users\hakra\Desktop\msimic-MediaPoint-de9562a\output\obj\x86\Debug\MediaPoint.ViewModels.dll
+C:\Users\hakra\Desktop\msimic-MediaPoint-de9562a\output\obj\x86\Debug\MediaPoint.ViewModels.pdb
